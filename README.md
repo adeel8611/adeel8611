@@ -1,9 +1,7 @@
-👋 Hi, I’m @adeel8611
+👋 Hi, I’m Adeel Ejaz (@adeel8611)
+💻 Front-End Developer | Exploring Full-Stack Development
 
-👨‍💻 I’m passionate about front-end development, especially using Angular
+I’m passionate about creating clean, responsive, and user-friendly web applications. My core expertise lies in Angular, and I’m currently expanding my skill set by learning React.js, Java, and Spring Boot to become a well-rounded full-stack developer.
 
-🌱 Currently learning React.js and diving deeper into Java, Spring Boot, and backend development
-
-🚀 I love building web apps that are clean, responsive, and user-friendly
-
-📫 Reach me at adeelejaz8686@gmail.com
+🌱 Always eager to learn and grow in the world of web development.
+📬 Feel free to connect with me at adeelejaz8686@gmail.com
